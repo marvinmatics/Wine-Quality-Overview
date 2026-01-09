@@ -1,8 +1,8 @@
 ![Dashboard](Dashboard.png)
 
-OIBSIP_DataAnalytics_Task2  Wine Quality dataset
+# Wine Quality  Analysis
 
-Wine Quality Prediction Analysis
+OIBSIP_DataAnalytics_Task2  Wine Quality dataset
 
 - This project focuses on analyzing wine quality based on its chemical characteristics.The goal is to explore how features like alcohol content, acidity, pH, density, and sulphates affect wine quality and the implementation uses Excel and PivotTables to perform a comprehensive data analysis and create an interactive dashboard.  
 
